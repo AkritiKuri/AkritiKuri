@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akriti Kuri
 
-**Data Science Enthusiast | Django Developer | Power BI & UI/UX Designer**
+**Data Science Enthusiast | Django Developer | AI & ML **
 
 ---
 
